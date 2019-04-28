@@ -1,0 +1,3 @@
+rootProject.name = 'ticTacToeProject'
+
+include ':app'

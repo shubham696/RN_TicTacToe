@@ -1,0 +1,4 @@
+#Wed Apr 03 12:59:41 IST 2019
+base.0=/home/shubham/reactTTT/react-native/ticTacToeProject/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
